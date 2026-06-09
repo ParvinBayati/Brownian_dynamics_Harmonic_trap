@@ -46,7 +46,7 @@ $$ U(x,y) = \frac{\beta}{2}(x^2+y^2),$$
 
 which generates the restoring force
 
-$$ \mathbf F = -\nabla U = (-\beta x,-\beta y)$$
+$$\mathbf F = -\nabla U = (-\beta x,-\beta y)$$
 
 ---
 
