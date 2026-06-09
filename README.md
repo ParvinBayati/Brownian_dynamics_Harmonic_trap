@@ -168,20 +168,6 @@ to reproduce all figures and results.
 
 ## Example Trajectory
 
-After running the simulation, a typical trajectory resembles:
-
-```text
-                    .
-              .   .     .
-          .                 .
-       .                      .
-      .                        .
-      .                        .
-       .                      .
-          .                .
-              . . . . .
-```
-
 The particle performs persistent runs due to self-propulsion while remaining confined by the harmonic trap.
 
 For large persistence times, the trajectory tends to form orbit-like structures around the trap center.
